@@ -80,7 +80,7 @@
     "vuex-router-sync": "^5.0.0",
     "webpack": "^3.10.0",
     "webpack-cli": "^3.3.6",
-    "webpack-dev-server": "^2.9.7",
+    "webpack-dev-server": "^3.1.11",
     "webpack-merge": "^4.1.0",
     "webpack-uglify-parallel": "^0.1.4",
     "weex-loader": "^0.7.2",
